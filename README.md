@@ -10,3 +10,4 @@ cd captcha-solver
 pip install -r requirements.txt
 # CAPTCHA_solver_YOLO
 # CAPTCHA_solver_YOLO
+# CAPTCHA_solver_YOLO
