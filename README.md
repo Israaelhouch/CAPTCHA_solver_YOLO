@@ -8,3 +8,4 @@ This is a simple YOLO-based CAPTCHA solver for digit-only CAPTCHAs. It detects a
 git clone https://github.com/yourusername/captcha-solver.git
 cd captcha-solver
 pip install -r requirements.txt
+# CAPTCHA_solver_YOLO
